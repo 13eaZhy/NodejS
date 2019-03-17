@@ -1,0 +1,41 @@
+1) DINS - Dive Into NodejS
+    
+    *what is it : 
+        NodejS (platform) RUN Javascript (ES) -> General Purpose
+        2009+ chrome v8
+        JIT -> Just in time compiler
+
+    *installation
+    *configuration
+    *CLI
+
+    NO !!! window, document, alert()....
+
+    YES !!! Standard ES/JS Math, Date(), Number .... classes ... etc
+    YES !! global -> window
+    YES !  modules(folders, files ... binaries)
+            module ----> object
+            (core,contributed, npmjs, or custom)
+
+    *npm/yarn
+    *MODULES
+
+    (next)
+
+2)- NBM
+    *fs (core)
+    *HTTP (core)
+    *npm - repository (contributed modules)
+
+2. Optional - 1series - DEV a lan / multiplayer game (AJAX / Fetch)
+    ***** SUBJECT
+
+
+    node.exe 
+        node ->> Console
+        node /calea/pina/la/script.JS
+    
+    npm.exe ( ruleaza, instaleaza, remove, update, script etc..)
+        node package manager
+
+    yarn.exe
